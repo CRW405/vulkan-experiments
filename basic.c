@@ -114,6 +114,8 @@
 /* Useful Links
  * https://vkguide.dev
  * https://github.com/vblanco20-1/vulkan-guide/
+ * https://vulkan-tutorial.com/en/Drawing_a_triangle/Setup/Base_code
+ * https://www.vulkan.org/learn
 */
 
 int main(int argc, char *argv[])
